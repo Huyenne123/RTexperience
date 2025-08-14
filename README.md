@@ -21,6 +21,6 @@ to run this:
 ``` make run ``` (needs sudo)
 
 ## notes:
-1. this will only work with wasd/arrow keys (some bugs when we're trying to make it for entire keyboard)
+1. this will only work with wasd/arrow keys (some bugs when i'm trying to make it for entire keyboard)
 2. this shit WAS MADE ENTIRELY USING CHATGPT
 3. 6
