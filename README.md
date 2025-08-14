@@ -1,5 +1,5 @@
 # RTexperience
-A basic C program thats simulates the "rapid trigger"(RT) key logic
+A basic C program thats simulates the "rapid trigger" (RT) key logic
 
 "uhh but wtf is rapid trigger key logic?"
 so, the RT key logic can be describe like this:
