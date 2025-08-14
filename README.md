@@ -8,9 +8,8 @@ it always send your latest key and cancel the previous key (bro thats too simple
 ### how to build this
 1. clone this repo
 2. dependencies:
-   1. intercept
-   2. gcc
-   3. brain
+   intercept
+   gcc
 3.
 ```
 cd RTexperience
